@@ -1,0 +1,14 @@
+{
+  "name": "create-boiler",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/byCodeXp/boilerplates",
+  "author": "Dima <bycodexp@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "create-boiler": "index.js"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
