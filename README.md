@@ -1,14 +1,17 @@
-# React - Bolierplate
-
-### Dependecnies
+# Templates
+## **react**
+### Dependecies
 - react
 - react-dom
 - vite
 - @vitejs/plugin-react
 #
-### Scripts
-`yarn dev` - run dev server
-
-`yarn build` - bundle to production
-
-`yarn preview` - run local production server
+## **react-ts**
+### Dependecies
+- react
+- react-dom
+- @types/react
+- @types/react-dom
+- typescript
+- vite
+- @vitejs/plugin-react
