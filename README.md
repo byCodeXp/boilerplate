@@ -1,16 +1,12 @@
 # Docs
 
-<br>
-
 ## How to create boilerplate:
 `npx create-boiler [folder]`\
 or\
 `yarn create boiler [folder]`
 
-<br>
-
 ## Templates available
-- <h2>react</h2>
-- <h2>react-typescript</h2>
-- <h2>react-tailwind</h2>
-- <h2>react-typescript-tailwind</h2>
+- <h3>react</h3>
+- <h3>react-typescript</h3>
+- <h3>react-tailwind</h3>
+- <h3>react-typescript-tailwind</h3>
