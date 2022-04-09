@@ -5,6 +5,13 @@
   "repository": "https://github.com/byCodeXp/boilerplates",
   "author": "Dima <bycodexp@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "boilerplate",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "vitejs"
+  ],
   "bin": {
     "create-boiler": "index.js"
   },
