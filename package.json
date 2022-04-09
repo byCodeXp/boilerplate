@@ -1,6 +1,6 @@
 {
   "name": "create-boiler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/byCodeXp/boilerplates",
   "author": "Dima <bycodexp@gmail.com>",
