@@ -11,7 +11,8 @@ const templates = [
    'react',
    'react-tailwind'
    'react-ts',
-   'react-ts-tailwind'
+   'react-ts-tailwind',
+   'electron-react'
 ];
 
 async function init() {
