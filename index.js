@@ -9,7 +9,9 @@ const cwd = process.cwd();
 
 const templates = [
    'react',
-   'react-ts'
+   'react-tailwind'
+   'react-ts',
+   'react-ts-tailwind'
 ];
 
 async function init() {
