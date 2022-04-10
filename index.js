@@ -9,7 +9,7 @@ const cwd = process.cwd();
 
 const templates = [
    'react',
-   'react-tailwind'
+   'react-tailwind',
    'react-ts',
    'react-ts-tailwind',
    'electron-react'
